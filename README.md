@@ -1,3 +1,5 @@
+![alt text](https://github.com/netervati/Fazer/blob/main/assets/demo/demo.gif?raw=true)
+
 # Fazer
 Fazer is a pixel top-down survival game where the player must maneuver across the map and earn points by eliminating enemies.
 
